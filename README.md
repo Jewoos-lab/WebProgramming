@@ -15,3 +15,4 @@ CREATE TABLE news(<br>
 );
 
 <strong>3. 결과 화면</strong><br>
+![image](https://github.com/Jewoos-lab/WebProgramming/assets/86662870/071e2c87-1c20-43a2-887b-e24256ddcc34)
